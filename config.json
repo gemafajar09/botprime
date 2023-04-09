@@ -1,0 +1,20 @@
+{
+    "URL_SERVER": "http://185.111.159.158:30120",
+    "SERVER_NAME": "INDONUSA",
+    "SERVER_LOGO": "https://cdn.discordapp.com/attachments/1049708315904585818/1055451213438652506/7.png",
+    "EMBED_COLOR": "#fff",
+    "PERMISSION": "MANAGE_MESSAGES",
+    "BOT_TOKEN": "MTA5NDYyMzAzMzI3NDE0MjcyMQ.GFIZdI.fTRYKXNR89A0wmcWvevCBhLO8sZxW_-vMWUEfU",
+    "CHANNEL_ID": "1087137520183152713",
+    "MESSAGE_ID": "",
+    "SUGGESTION_CHANNEL": "",
+    "BUG_CHANNEL": "",
+    "BUG_LOG_CHANNEL": "",
+    "LOG_CHANNEL": "",
+    "DEBUG": false,
+    "WEBSITE_URL": "https://cfx.re/join/bgrojl",
+    "CONNECT_URL": "fivem://connect/cfx.re/join/4e73k9",
+    "CFX_URL": "https://status.cfx.re/",
+    "RESTART_TIMES": "19:00 WIB",
+    "SHOW_PLAYERS": true
+  }
